@@ -18,4 +18,4 @@ See the documentation of heroku-build-multi for a detailed explanation
 how to use it.
 
 ## License
-MIT License. Copyright 2013 Marco Azimonti.
+MIT License. Copyright 2014 Marco Azimonti.
